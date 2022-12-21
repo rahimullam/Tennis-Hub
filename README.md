@@ -25,10 +25,10 @@ This is a web based application developed for health related telugu based websit
 
 ## About us - 
 ![rahim02](https://user-images.githubusercontent.com/118255124/208902031-738030cc-3d8c-42cd-8b26-57bdc21974ea.png)
-
+![rahim03](https://user-images.githubusercontent.com/118255124/208902063-8bd0354d-cfe8-4151-8939-4134fb373206.png)
 
 ## services - 
-![rahim03](https://user-images.githubusercontent.com/118255124/208902063-8bd0354d-cfe8-4151-8939-4134fb373206.png)
+![rahim04](https://user-images.githubusercontent.com/118255124/208902402-cad8cd02-303f-4bd7-872d-c429110b892a.png)
 
 
 ## Instructors - 
