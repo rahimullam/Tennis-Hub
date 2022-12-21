@@ -6,7 +6,9 @@ This is a web based application developed for health related telugu based websit
 
 *Github Respoistory Link* - https://github.com/rahimullam/Tennis-Hub
 
-*Project Link* - https://calm-field-029a39400.2.azurestaticapps.net
+*Project Demo Link* - https://calm-field-029a39400.2.azurestaticapps.net
+
+*Project Demo video Link - https://youtu.be/NmRiLV1fTgQ 
 
 ## Features and Functionalities 😃
 
