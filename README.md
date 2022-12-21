@@ -4,9 +4,9 @@ This is a web based application developed for health related telugu based websit
 
 ### This web based Tennis Hub  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-*Github Respoistory Link* - 
+*Github Respoistory Link* - https://github.com/rahimullam/Tennis-Hub
 
-*Project Link* - 
+*Project Link* - https://calm-field-029a39400.2.azurestaticapps.net
 
 ## Features and Functionalities 😃
 
